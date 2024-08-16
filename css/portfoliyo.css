@@ -385,7 +385,7 @@ footer p:nth-child(2){
 
 @media(max-width:480px){
     .hero{
-        width:60vh;
+        height:70vh;
     }
     h1{
         font-size: 35px;
