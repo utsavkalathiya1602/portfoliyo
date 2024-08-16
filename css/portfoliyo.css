@@ -387,6 +387,9 @@ footer p:nth-child(2){
     .hero{
         height:70vh;
     }
+    nav{
+        flex-direction: row;
+    }
     h1{
         font-size: 35px;
     }
@@ -433,6 +436,7 @@ footer p:nth-child(2){
         text-align: center;
         padding: 0 100px;
     }
+    
 }
 
 @media(max-width:810px){
